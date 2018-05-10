@@ -3109,3 +3109,5 @@
   }
 
 }());
+
+module.exports = window.tracking // this is the line I added
